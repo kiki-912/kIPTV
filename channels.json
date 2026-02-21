@@ -1,15 +1,14 @@
 [
   {
     "name": "🏆  EVENTOS",
-    "samples": [
+    "samples":
       {
-        "name": "TNT SPORTS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",
-            "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-            "drm_scheme": "clearkey",
-            "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-          }
-        ]
+         "name": "TNT SPORTS",
+         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+         "drm_scheme": "clearkey",
+         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",
+          },
       },
       {
         "name": "BUNDESLIGA",
@@ -159,7 +158,7 @@
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350714",
         "icono": "https://i.postimg.cc/rwsX0Z8c/latina.png"
       }
-    ]
+        ]
   },
   {
     "name": "⚽ DAZN ",
