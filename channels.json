@@ -3,11 +3,14 @@
     "name": "🏆  EVENTOS",
     "samples": [
       {
-        "name": "TNT Sports",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-        "icono": "https://i.postimg.cc/bNNGg4Cv/sky-sports-laliga.png"
+        {
+          "name": "LALIGA",
+          "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
+          "drm_scheme": "clearkey",
+          "clearkey_kid": "bc80fa3da696e503f940fde5f681a1c5",
+          "clearkey_key": "ea46e4e9f1132e8dd71fb77f7d55058a",
+          "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTY2so3bvXqaYUgxreLtRzF8ReAJANrc-kA&s"
+}
       },
       {
         "name": "BUNDESLIGA",
