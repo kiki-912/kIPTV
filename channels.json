@@ -8,7 +8,6 @@
         "sources": [
           {
             "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_cenc/TNT_Sports_HD.mpd",
-            "type": "dash",
             "drm": {
               "clearkey": {
                 "keyId": "bc80fa3da696e503f940fde5f681a1c5",
