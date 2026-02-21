@@ -42,7 +42,7 @@
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0AAD66Ytjnq3iyuRiKEz9mh08a6DRRjX8tNkIUm72Nm-CF1BegVMle1IWs_X5ZF7dBZsuHhE6iPUvgXNDfd7Oy1ysOZC6KSvfneTbCM-EFKCXSCEF1qgUYxmBDhxR1uf7rLv17IFNtatB27R2qockwJyzp0irCwL5nyY4L6zKCcq6Z9sKT5TCRgfsTk/s200/atvargentina-x1.png",
         "sources": [
           {
-            "file": "https://tv.streaming.com.bo/atv/index.m3u8",
+            "file": "https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8",
             "type": "hls",
             "label": "HD"
           }
