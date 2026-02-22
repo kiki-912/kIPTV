@@ -1,14 +1,13 @@
 [
   {
     "name": "🏆  EVENTOS",
-    "samples":
+    "samples": [
       {
-         "name": "TNT SPORTS",
-         "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
-         "drm_scheme": "clearkey",
-         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
-         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png",
-          },
+        "name": "TNT SPORTS",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png"
       },
       {
         "name": "BUNDESLIGA",
@@ -30,13 +29,9 @@
       {
         "name": "ATV ARGENTINA",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0AAD66Ytjnq3iyuRiKEz9mh08a6DRRjX8tNkIUm72Nm-CF1BegVMle1IWs_X5ZF7dBZsuHhE6iPUvgXNDfd7Oy1ysOZC6KSvfneTbCM-EFKCXSCEF1qgUYxmBDhxR1uf7rLv17IFNtatB27R2qockwJyzp0irCwL5nyY4L6zKCcq6Z9sKT5TCRgfsTk/s200/atvargentina-x1.png",
-        "sources": [
-          {
-            "uri": "https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8",
-            "type": "hls",
-            "label": "HD"
-          }
-        ]
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8",
+        "type": "hls",
+        "label": "HD"
       },
       {
         "name": "Eventos PY",
@@ -158,7 +153,7 @@
         "drm_license_uri": "https://paste.anasor.com/paste.php?raw&id=350714",
         "icono": "https://i.postimg.cc/rwsX0Z8c/latina.png"
       }
-        ]
+    ]
   },
   {
     "name": "⚽ DAZN ",
