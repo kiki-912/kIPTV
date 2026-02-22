@@ -8,7 +8,7 @@
           "sources": [{
           "uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
           "type": "dash",
-          "drm_scheme": { clearkey: { keyId: "3cec1b1ea9799dda5596e64f37e5ed20", key: "c69f3afde2085dcaaaddbf55246a0323" } },
+          "drm_scheme": { clearkey: { keyId: "3cec1b1ea9799dda5596e64f37e5ed20", key: "c69f3afde2085dcaaaddbf55246a0323" },
           "label": "HD",
           "default": true
           }]
