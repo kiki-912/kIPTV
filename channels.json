@@ -4,9 +4,9 @@
     "samples": [
       {
         "name": "TNT SPORTS",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+        "uri": "https://edge-live02-cen.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6kbk6fETLo3XH7d/fVUFig&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png"
       },
       {
@@ -18,7 +18,7 @@
       },
       {
         "name": "La 1",
-        "uri": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8",
+        "uri": "http://38.199.6.1:17001/play/a036/index.m3u8",
         "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20221109T010943SQUARE.png_20221109010943.png"
       },
       {
