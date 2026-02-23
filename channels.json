@@ -1723,9 +1723,9 @@
     "samples": [
       {
         "name": "ADULT SWIM",
-        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_cenc/Adult_Swim.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
+        "drm_license_uri": "https://clkey.vercel.app/api/results.php?keyid=9be1432e1e594c8d0648a44d3d9f0c46&key=8e6c785b14d973c504074b1920f11b15",
         "icono": "https://i.ibb.co/jZxhrBD/adult-swim.png"
       },
       {
