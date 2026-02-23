@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "TNT SPORTS",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://clkey.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
         "icono": "https://cdn4.cipollettidigital.com.ar/s4/2025/10/25/cipollettidigital/images/15/83/158382_964cc59d303a9c64f3eeb984f03bb22a8d6d5c51e7e71a37a2c1a7b50b2cf146/md.webp"
