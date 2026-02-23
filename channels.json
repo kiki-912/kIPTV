@@ -1739,7 +1739,7 @@
         "name": "USA NETWORK LATAM",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c754b522b3b87dc2ba2da3e35154ec14&key=141a51e9e83861ae99b4b217431710b3",
+        "drm_license_uri": "https://clkey.vercel.app/api/results.php?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
         "icono": "https://i.ibb.co/fN4bsYz/usa-network.png"
       },
       {
