@@ -1744,7 +1744,7 @@
       },
       {
         "name": "GOLDEN",
-        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_cenc/Golden.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b7d085dbd4539afcc6a55445efb2b04e&key=0a55fbe044fed379d1632b589265b571",
         "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
