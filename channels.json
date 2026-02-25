@@ -89,13 +89,13 @@
     ]
   },
   {
-    "name": "⚽ DAZN ",
+    "name": "⚽ Deportes ",
     "samples": [
       {
-        "name": "DAZN  1  ES",
-        "uri": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd",
+        "name": "TYC SPORTS",
+        "uri": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=44dd9cd370b08a868ead115fe84ecfde&key=bff19ab0a51cf14e848389b152913fd0",
+        "drm_license_uri": "https://clkey.vercel.app/api/results.php?keyid=53d0cf6c1d49c16f5180f86e1870b00f&key=7eb6743b5f44b52ba27c88229c8c7ae2",
         "icono": "https://i.ibb.co/sb2ykSM/D1.png"
       },
       {
