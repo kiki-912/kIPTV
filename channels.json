@@ -221,7 +221,7 @@
         "name": "TNT SPORTS PREMIUM",
         "uri": "http://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=c26371079e89206d63e1454893e881b6&key%5B%5D=adac3c3b3774e411d6e49724f7ea0ee3",
+        "drm_license_uri": "c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png"
       },
       {
@@ -235,7 +235,7 @@
         "name": "TYC SPORTS",
         "uri": "http://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=53d0cf6c1d49c16f5180f86e1870b00f&key%5B%5D=7eb6743b5f44b52ba27c88229c8c7ae2",
+        "drm_license_uri": "53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png"
       },
       {
