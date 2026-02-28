@@ -219,21 +219,21 @@
         "samples": [
       {
         "name": "TNT SPORTS PREMIUM",
-        "uri": "http://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/119/CH_LOGO/160/160/0/0/27256579073984.png"
       },
       {
         "name": "ESPN PREMIUM",
-        "uri": "http://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd",
+        "uri": "https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png"
       },
       {
         "name": "TYC SPORTS",
-        "uri": "http://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/121/CH_LOGO/160/160/0/0/28233186072861.png"
@@ -252,49 +252,49 @@
       },
       {
         "name": "FOX SPORTS",
-        "uri": "http://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/93/CH_LOGO/160/160/0/0/8962668107979.png"
       },
       {
         "name": "FOX SPORTS 2",
-        "uri": "http://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/FoxSports2/live_dash_cld/FoxSports2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "6ec1c5620f5c1553d3238988714e71b2:b8917b12e851dfc7bb8a3b832348b3be",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/94/CH_LOGO/160/160/0/0/91777703072785.png"
       },
       {
         "name": "FOX SPORTS 3",
-        "uri": "http://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/FoxSports3/live_dash_cld/FoxSports3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "c7f87e51c56a87a59cab7ec98fd062db:c3f0d7d067e385900a0e6d4c8e406a68",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/95/CH_LOGO/160/160/0/0/14056054072366.png"
       },
       {
         "name": "ESPN",
-        "uri": "http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png"
       },
       {
         "name": "ESPN 2",
-        "uri": "http://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/160/160/0/0/32397574073429.png"
       },
       {
         "name": "ESPN 3",
-        "uri": "http://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/160/160/0/0/85904894074972.png"
       },
       {
         "name": "ESPN 4",
-        "uri": "http://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
+        "uri": "https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png"
@@ -495,12 +495,12 @@
       },
       {
         "name": "CLARO SPORTS",
-        "uri": "http://181.78.106.127:9000/play/a0ok",
+        "uri": "https://181.78.106.127:9000/play/a0ok",
         "icono": "https://i.postimg.cc/15S2y7qg/claro-sports.png"
       },
       {
         "name": "CLARO SPORTS 2",
-        "uri": "http://181.78.106.127:9000/play/ca037",
+        "uri": "https://181.78.106.127:9000/play/ca037",
         "icono": "https://i.postimg.cc/vBkyPrqr/claro-sports-2.png"
       },
       {
