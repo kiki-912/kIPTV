@@ -19,6 +19,12 @@
         "name": "ESPN PREMIUM",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
+        "drm_license_uri": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
         "drm_license_uri": "https://clkey.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
         "icono": "https://cdn4.cipollettidigital.com.ar/s4/2025/10/25/cipollettidigital/images/15/83/158382_964cc59d303a9c64f3eeb984f03bb22a8d6d5c51e7e71a37a2c1a7b50b2cf146/md.webp"
       },
