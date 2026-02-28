@@ -11,9 +11,9 @@
       },
       {
         "name": "TV PUBLICA",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_cenc/Fox_Sports_Premiun_HD.mpd",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257"
+        "drm_license_uri": "3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323"
       },
       {
         "name": "ESPN PREMIUM",
