@@ -1134,7 +1134,9 @@
     "samples": [
       {
         "name": "A24",
-        "uri": "https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd",
+        "uri": "https://mplus.pontiscloud.com/live/eds/A24/live_dash_cld/A24.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "ed936cd5cb59eeee83addafb446662a4:dd4b7aeb2bc000468883296e7ae4a09b",
         "icono": "https://geo.edge.pontiscloud.com:9002/images/51/CH_LOGO/160/160/0/0/2944696007343.png"
       },
       {
