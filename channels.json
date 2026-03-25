@@ -10,6 +10,13 @@
         "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png"
       },
       {
+        "name": "ESPN PREMIUM",
+        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
+      },
+      {
         "name": "TYC SPORTS",
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
         "drm_scheme": "clearkey",
@@ -24,11 +31,9 @@
         "icono": "https://i.ibb.co/tK20mxz/tycsports.png"
       },
       {
-        "name": "ESPN PREMIUM",
-        "uri": "https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_C/Fox_Sports_Premiun_HD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257",
-        "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
+        "name": "ESPN PREMIUM OPC2",
+        "uri": "https://181.78.106.127:9000/play/ca037",
+        "icono": "http://104.238.205.28:8989/278776_.m3u8"
       },
       {
         "name": "ESPN",
