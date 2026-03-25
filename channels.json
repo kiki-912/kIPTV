@@ -21,19 +21,19 @@
         "uri": "https://cdn.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_C/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/tK20mxz/tycsports.png"
+        "icono": "https://e7.pngegg.com/pngimages/290/978/png-clipart-logo-tyc-sports-brand-trademark-mosaic-blue-text.png"
       },
       {
         "name": "TYC SPORTS INTERNACIONAL",
         "uri": "https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_Internacional.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb",
-        "icono": "https://i.ibb.co/tK20mxz/tycsports.png"
+        "icono": "https://e7.pngegg.com/pngimages/290/978/png-clipart-logo-tyc-sports-brand-trademark-mosaic-blue-text.png"
       },
       {
         "name": "ESPN PREMIUM OPC2",
-        "uri": "https://181.78.106.127:9000/play/ca037",
-        "icono": "http://104.238.205.28:8989/278776_.m3u8"
+        "uri": "http://104.238.205.28:8989/278776_.m3u8",
+        "icono": "https://i.ibb.co/LrNsJsP/espnpremium.png"
       },
       {
         "name": "ESPN",
