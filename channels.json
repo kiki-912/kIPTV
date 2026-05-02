@@ -238,14 +238,14 @@
       },
       {
         "name": "DSPORTS+",
-        "uri": " https://1071-aws-da-mt.vrioott.com/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd",
+        "uri": "https://1071-aws-da-mt.vrioott.com/1071_DIRECTV_SPORTS_HD_DASH/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1",
         "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
       },
       {
         "name": "DSPORTS+",
-        "uri": " https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
+        "uri": "https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "819c353c167435409d2b41c76f75b2d7:13fdd0f0ca3fcb309867a5557e125fe1",
         "icono": "https://grupo-isos-bucket.s3.us-east-2.amazonaws.com/public/posts/1751660050986_Foto-eSports.png"
