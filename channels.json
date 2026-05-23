@@ -86,7 +86,7 @@
       },
       {
         "name": "ESPN 3 UY-PY",
-        "uri": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd?*",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/ESPN3_Uy-Py/SA_Live_dash_enc_C/ESPN3_Uy-Py.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "ed53871dc50dcdc59a6271db3c8c51b3:0c21dc8629e3f2e6fe9efa8b80dc447e",
         "icono": "https://i.ibb.co/TLcGvdv/espn-3B.png"
@@ -529,6 +529,32 @@
         "uri": "https://181.78.106.127:9000/play/ca037",
         "icono": "https://i.postimg.cc/vBkyPrqr/claro-sports-2.png"
       }
+    ]
+  },
+  {
+    "name": "⚽ FLOW DEPORTIVOS 2",
+    "samples": [
+      {
+        "name": "ESPN PREMIUM",
+        "uri": "https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Fox_Sports_Premiun_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/160/160/0/0/50191211073985.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "uri": "https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a",
+        "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "uri": "https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a",
+        "icono": "https://i.ibb.co/zGzJ3jw/tnt-sports-premium.png"
+      },
     ]
   },
     {
